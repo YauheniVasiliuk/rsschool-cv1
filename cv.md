@@ -5,7 +5,7 @@
 + E-mail: ewgenijwasiljuk237@gmail.com
 + Telegram:[https://t.me/Jauhien_Vasiliuk]("Jauhien_Vasiliuk")
 ## About me
-I work at BELAZ. I'm process engineer. I started learn to Front-End Development with RSschool.
+I'm living in Zhodino and working at BELAZ right now. I'm process engineer. I started learn to Front-End Development with RSschool.
 I'm going to become Frontend Developer in the future.
 ## Skills 
 + HTML
